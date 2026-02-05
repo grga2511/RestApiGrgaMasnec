@@ -1,0 +1,713 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\TehnologijaWebaGrgaMasnec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|solutionrelative:tehnologijawebagrgamasnec\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec\\repositories\\timeslotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|solutionrelative:tehnologijawebagrgamasnec\\repositories\\timeslotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec\\repositories\\itimeslotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|solutionrelative:tehnologijawebagrgamasnec\\repositories\\itimeslotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec\\repositories\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|solutionrelative:tehnologijawebagrgamasnec\\repositories\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec\\repositories\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|solutionrelative:tehnologijawebagrgamasnec\\repositories\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|solutionrelative:tehnologijawebagrgamasnec\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec\\repositories\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|solutionrelative:tehnologijawebagrgamasnec\\repositories\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec\\migrations\\20260130201225_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|solutionrelative:tehnologijawebagrgamasnec\\migrations\\20260130201225_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec\\migrations\\20260130201636_adddecimalprecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|solutionrelative:tehnologijawebagrgamasnec\\migrations\\20260130201636_adddecimalprecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|solutionrelative:tehnologijawebagrgamasnec\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|solutionrelative:tehnologijawebagrgamasnec\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec\\entities\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|solutionrelative:tehnologijawebagrgamasnec\\entities\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec\\entities\\roomamenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|solutionrelative:tehnologijawebagrgamasnec\\entities\\roomamenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|solutionrelative:tehnologijawebagrgamasnec\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|solutionrelative:tehnologijawebagrgamasnec\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|solutionrelative:tehnologijawebagrgamasnec\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|solutionrelative:tehnologijawebagrgamasnec\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec\\entities\\facility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|solutionrelative:tehnologijawebagrgamasnec\\entities\\facility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|solutionrelative:tehnologijawebagrgamasnec\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec\\entities\\amenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|solutionrelative:tehnologijawebagrgamasnec\\entities\\amenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec\\entities\\timeslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|solutionrelative:tehnologijawebagrgamasnec\\entities\\timeslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec\\dtos\\timeslotcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|solutionrelative:tehnologijawebagrgamasnec\\dtos\\timeslotcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec\\dtos\\roomcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|solutionrelative:tehnologijawebagrgamasnec\\dtos\\roomcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec\\dtos\\reservationcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|solutionrelative:tehnologijawebagrgamasnec\\dtos\\reservationcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec\\controllers\\timeslotscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|solutionrelative:tehnologijawebagrgamasnec\\controllers\\timeslotscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec\\controllers\\roomtypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|solutionrelative:tehnologijawebagrgamasnec\\controllers\\roomtypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|solutionrelative:tehnologijawebagrgamasnec\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|solutionrelative:tehnologijawebagrgamasnec\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec\\controllers\\facilitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|solutionrelative:tehnologijawebagrgamasnec\\controllers\\facilitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|solutionrelative:tehnologijawebagrgamasnec\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|solutionrelative:tehnologijawebagrgamasnec\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|solutionrelative:tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC6555C-84B2-4E8F-8A4A-D8581C4D5FB4}|TehnologijaWebaGrgaMasnec.tests\\TehnologijaWebaGrgaMasnec.tests.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec.tests\\tehnologijawebagrgamasnec.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0FC6555C-84B2-4E8F-8A4A-D8581C4D5FB4}|TehnologijaWebaGrgaMasnec.tests\\TehnologijaWebaGrgaMasnec.tests.csproj|solutionrelative:tehnologijawebagrgamasnec.tests\\tehnologijawebagrgamasnec.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC6555C-84B2-4E8F-8A4A-D8581C4D5FB4}|TehnologijaWebaGrgaMasnec.tests\\TehnologijaWebaGrgaMasnec.tests.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec.tests\\apitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC6555C-84B2-4E8F-8A4A-D8581C4D5FB4}|TehnologijaWebaGrgaMasnec.tests\\TehnologijaWebaGrgaMasnec.tests.csproj|solutionrelative:tehnologijawebagrgamasnec.tests\\apitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC6555C-84B2-4E8F-8A4A-D8581C4D5FB4}|TehnologijaWebaGrgaMasnec.tests\\TehnologijaWebaGrgaMasnec.tests.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec.tests\\xunit.runner.json.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0FC6555C-84B2-4E8F-8A4A-D8581C4D5FB4}|TehnologijaWebaGrgaMasnec.tests\\TehnologijaWebaGrgaMasnec.tests.csproj|solutionrelative:tehnologijawebagrgamasnec.tests\\xunit.runner.json.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec\\programexposed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|solutionrelative:tehnologijawebagrgamasnec\\programexposed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec\\infrastructure\\identityseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|solutionrelative:tehnologijawebagrgamasnec\\infrastructure\\identityseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|solutionrelative:tehnologijawebagrgamasnec\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec\\infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|solutionrelative:tehnologijawebagrgamasnec\\infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec\\infrastructure\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|solutionrelative:tehnologijawebagrgamasnec\\infrastructure\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|c:\\tehnologijawebagrgamasnec\\tehnologijawebagrgamasnec\\infrastructure\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55001-C168-452D-9C86-46714FEA9DAD}|TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj|solutionrelative:tehnologijawebagrgamasnec\\infrastructure\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoomRepository.cs",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Repositories\\RoomRepository.cs",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec\\Repositories\\RoomRepository.cs",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Repositories\\RoomRepository.cs",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec\\Repositories\\RoomRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T21:09:19.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TimeSlotRepository.cs",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Repositories\\TimeSlotRepository.cs",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec\\Repositories\\TimeSlotRepository.cs",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Repositories\\TimeSlotRepository.cs",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec\\Repositories\\TimeSlotRepository.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAYwDYAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T21:07:55.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITimeSlotRepository.cs",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Repositories\\ITimeSlotRepository.cs",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec\\Repositories\\ITimeSlotRepository.cs",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Repositories\\ITimeSlotRepository.cs",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec\\Repositories\\ITimeSlotRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T21:05:37.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRoomRepository.cs",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Repositories\\IRoomRepository.cs",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec\\Repositories\\IRoomRepository.cs",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Repositories\\IRoomRepository.cs",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec\\Repositories\\IRoomRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T21:09:06.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IReservationRepository.cs",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Repositories\\IReservationRepository.cs",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec\\Repositories\\IReservationRepository.cs",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Repositories\\IReservationRepository.cs",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec\\Repositories\\IReservationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T21:08:26.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Program.cs",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec\\Program.cs",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Program.cs",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec\\Program.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAAAI0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T19:59:38.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReservationRepository.cs",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Repositories\\ReservationRepository.cs",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec\\Repositories\\ReservationRepository.cs",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Repositories\\ReservationRepository.cs",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec\\Repositories\\ReservationRepository.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T21:08:43.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260130201225_InitialCreate.cs",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Migrations\\20260130201225_InitialCreate.cs",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec\\Migrations\\20260130201225_InitialCreate.cs",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Migrations\\20260130201225_InitialCreate.cs",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec\\Migrations\\20260130201225_InitialCreate.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T20:12:25.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260130201636_AddDecimalPrecision.cs",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Migrations\\20260130201636_AddDecimalPrecision.cs",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec\\Migrations\\20260130201636_AddDecimalPrecision.cs",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Migrations\\20260130201636_AddDecimalPrecision.cs",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec\\Migrations\\20260130201636_AddDecimalPrecision.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T20:16:36.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBwAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T11:48:20.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec\\wwwroot\\index.html",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\wwwroot\\index.html",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec\\wwwroot\\index.html",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-02T11:34:14.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoomType.cs",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Entities\\RoomType.cs",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec\\Entities\\RoomType.cs",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Entities\\RoomType.cs",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec\\Entities\\RoomType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T12:56:36.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RoomAmenity.cs",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Entities\\RoomAmenity.cs",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec\\Entities\\RoomAmenity.cs",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Entities\\RoomAmenity.cs",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec\\Entities\\RoomAmenity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T13:00:04.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Entities\\Room.cs",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec\\Entities\\Room.cs",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Entities\\Room.cs",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec\\Entities\\Room.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T12:14:03.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec\\Entities\\Review.cs",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Entities\\Review.cs",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec\\Entities\\Review.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T13:35:59.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Entities\\Reservation.cs",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec\\Entities\\Reservation.cs",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Entities\\Reservation.cs",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec\\Entities\\Reservation.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T13:22:26.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec\\Entities\\Payment.cs",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Entities\\Payment.cs",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec\\Entities\\Payment.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T13:27:01.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Facility.cs",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Entities\\Facility.cs",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec\\Entities\\Facility.cs",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Entities\\Facility.cs",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec\\Entities\\Facility.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T12:13:21.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec\\Entities\\ApplicationUser.cs",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec\\Entities\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T13:36:39.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Amenity.cs",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Entities\\Amenity.cs",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec\\Entities\\Amenity.cs",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Entities\\Amenity.cs",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec\\Entities\\Amenity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T12:59:23.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TimeSlot.cs",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Entities\\TimeSlot.cs",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec\\Entities\\TimeSlot.cs",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Entities\\TimeSlot.cs",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec\\Entities\\TimeSlot.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T13:00:31.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TimeSlotCreateDto.cs",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\DTos\\TimeSlotCreateDto.cs",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec\\DTos\\TimeSlotCreateDto.cs",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\DTos\\TimeSlotCreateDto.cs",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec\\DTos\\TimeSlotCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T17:15:01.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RoomCreateDto.cs",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\DTos\\RoomCreateDto.cs",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec\\DTos\\RoomCreateDto.cs",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\DTos\\RoomCreateDto.cs",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec\\DTos\\RoomCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T17:14:30.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ReservationCreateDto.cs",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\DTos\\ReservationCreateDto.cs",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec\\DTos\\ReservationCreateDto.cs",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\DTos\\ReservationCreateDto.cs",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec\\DTos\\ReservationCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T17:16:59.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TimeSlotsController.cs",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Controllers\\TimeSlotsController.cs",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec\\Controllers\\TimeSlotsController.cs",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Controllers\\TimeSlotsController.cs",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec\\Controllers\\TimeSlotsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T17:27:52.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RoomTypesController.cs",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Controllers\\RoomTypesController.cs",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec\\Controllers\\RoomTypesController.cs",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Controllers\\RoomTypesController.cs",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec\\Controllers\\RoomTypesController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T00:14:04.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RoomsController.cs",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Controllers\\RoomsController.cs",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec\\Controllers\\RoomsController.cs",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Controllers\\RoomsController.cs",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec\\Controllers\\RoomsController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T17:27:27.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ReservationsController.cs",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Controllers\\ReservationsController.cs",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec\\Controllers\\ReservationsController.cs",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Controllers\\ReservationsController.cs",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec\\Controllers\\ReservationsController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAYwEoAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T17:28:56.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FacilitiesController.cs",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Controllers\\FacilitiesController.cs",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec\\Controllers\\FacilitiesController.cs",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Controllers\\FacilitiesController.cs",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec\\Controllers\\FacilitiesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T00:13:44.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAApwD4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T20:55:22.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T20:56:28.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TehnologijaWebaGrgaMasnec.csproj",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-28T12:13:11.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "xunit.runner.json.json",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.tests\\xunit.runner.json.json",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec.tests\\xunit.runner.json.json",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.tests\\xunit.runner.json.json",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec.tests\\xunit.runner.json.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-05T01:19:11.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProgramExposed.cs",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\ProgramExposed.cs",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec\\ProgramExposed.cs",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\ProgramExposed.cs",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec\\ProgramExposed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T00:59:23.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TehnologijaWebaGrgaMasnec.tests.csproj",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.tests\\TehnologijaWebaGrgaMasnec.tests.csproj",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec.tests\\TehnologijaWebaGrgaMasnec.tests.csproj",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.tests\\TehnologijaWebaGrgaMasnec.tests.csproj",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec.tests\\TehnologijaWebaGrgaMasnec.tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-05T00:53:13.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ApiTests.cs",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.tests\\ApiTests.cs",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec.tests\\ApiTests.cs",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.tests\\ApiTests.cs",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec.tests\\ApiTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T11:36:02.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IdentitySeeder.cs",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Infrastructure\\IdentitySeeder.cs",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec\\Infrastructure\\IdentitySeeder.cs",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Infrastructure\\IdentitySeeder.cs",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec\\Infrastructure\\IdentitySeeder.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T20:51:00.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\appsettings.json",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec\\appsettings.json",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\appsettings.json",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-30T19:59:06.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec\\Infrastructure\\AppDbContext.cs",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Infrastructure\\AppDbContext.cs",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec\\Infrastructure\\AppDbContext.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAUwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T16:19:16.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Infrastructure\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec\\Infrastructure\\DataSeeder.cs",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Infrastructure\\DataSeeder.cs",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec\\Infrastructure\\DataSeeder.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T18:05:24.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Infrastructure\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "TehnologijaWebaGrgaMasnec\\Infrastructure\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\Infrastructure\\AppDbContextFactory.cs",
+              "RelativeToolTip": "TehnologijaWebaGrgaMasnec\\Infrastructure\\AppDbContextFactory.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T20:06:38.595Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

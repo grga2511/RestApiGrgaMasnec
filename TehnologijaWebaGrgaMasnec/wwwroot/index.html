@@ -1,0 +1,267 @@
+﻿<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Hotel Demo Client</title>
+    <style>
+        body {
+            font-family: Arial;
+            max-width: 900px;
+            margin: auto;
+        }
+
+        section {
+            border: 1px solid #ccc;
+            padding: 15px;
+            margin: 10px 0;
+        }
+
+        button {
+            margin: 5px;
+        }
+
+        input {
+            margin: 3px;
+        }
+
+        pre {
+            background: #eee;
+            padding: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Hotel Reservation Demo Client</h1>
+
+    <!-- LOGIN -->
+    <section>
+        <h2>1) Login</h2>
+
+        <input id="email" placeholder="Email" value="admin@hotel.local" />
+        <input id="password" type="password" placeholder="Password" />
+
+        <button onclick="login()">Login</button>
+
+        <p id="loginStatus"></p>
+    </section>
+
+    <!-- DATA -->
+    <section>
+        <h2>2) View Data</h2>
+
+        <button onclick="loadRooms()">Load Rooms</button>
+        <button onclick="loadRoomTypes()">Load Room Types</button>
+
+<pre id="dataOut"></pre>
+    </section>
+
+    <!-- ADMIN CREATE ROOM -->
+    <section>
+        <h2>3) Admin: Create Room</h2>
+
+        FacilityId: <input id="facId" /><br />
+        RoomTypeId: <input id="rtId" /><br />
+        Number: <input id="roomNum" /><br />
+        Floor: <input id="roomFloor" /><br />
+
+        <button onclick="createRoom()">Create Room</button>
+
+<pre id="roomOut"></pre>
+    </section>
+
+    <!-- ADMIN CREATE TIMESLOT -->
+    <section>
+        <h2>4) Admin: Create TimeSlot</h2>
+
+        RoomId: <input id="slotRoom" /><br />
+        Start: <input id="slotStart" value="2026-03-01T14:00:00" /><br />
+        End: <input id="slotEnd" value="2026-03-01T16:00:00" /><br />
+
+        <button onclick="createSlot()">Create Slot</button>
+
+<pre id="slotOut"></pre>
+    </section>
+
+    <!-- AVAILABLE -->
+    <section>
+        <h2>5) Available Slots</h2>
+
+        RoomId: <input id="aRoom" value="1" /><br />
+        From: <input id="aFrom" value="2026-03-01T00:00:00" /><br />
+        To: <input id="aTo" value="2026-03-31T00:00:00" /><br />
+
+        <button onclick="loadAvailable()">Load Available</button>
+
+<pre id="availOut"></pre>
+    </section>
+
+    <!-- RESERVE -->
+    <section>
+        <h2>6) Reserve Slot</h2>
+
+        TimeSlotId: <input id="resSlot" />
+
+        <button onclick="reserve()">Reserve</button>
+
+<pre id="resOut"></pre>
+    </section>
+
+    <!-- MY RESERVATIONS -->
+    <section>
+        <h2>7) My Reservations</h2>
+
+        <button onclick="loadMine()">Load My Reservations</button>
+
+<pre id="mineOut"></pre>
+    </section>
+
+    <!-- CANCEL -->
+    <section>
+        <h2>8) Cancel Reservation</h2>
+
+        ReservationId: <input id="cancelId" />
+
+        <button onclick="cancel()">Cancel</button>
+
+<pre id="cancelOut"></pre>
+    </section>
+
+    <script>
+
+        let token = "";
+
+        function authHeader() {
+            return token ? { "Authorization": "Bearer " + token } : {};
+        }
+
+        /* LOGIN */
+        async function login() {
+
+            const res = await fetch("/api/auth/login", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({
+                    email: email.value,
+                    password: password.value
+                })
+            });
+
+            const json = await res.json();
+
+            if (!res.ok) {
+                loginStatus.textContent = "Login failed";
+                return;
+            }
+
+            token = json.token;
+            loginStatus.textContent = "Token OK";
+        }
+
+        /* LOAD ROOMS */
+        async function loadRooms() {
+
+            const res = await fetch("/api/rooms");
+            dataOut.textContent = await res.text();
+        }
+
+        /* LOAD ROOM TYPES */
+        async function loadRoomTypes() {
+
+            const res = await fetch("/api/roomtypes");
+            dataOut.textContent = await res.text();
+        }
+
+        /* CREATE ROOM (ADMIN) */
+        async function createRoom() {
+
+            const res = await fetch("/api/rooms", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json",
+                    ...authHeader()
+                },
+                body: JSON.stringify({
+                    facilityId: +facId.value,
+                    roomTypeId: +rtId.value,
+                    number: roomNum.value,
+                    floor: +roomFloor.value
+                })
+            });
+
+            roomOut.textContent = await res.text();
+        }
+
+        /* CREATE SLOT (ADMIN) */
+        async function createSlot() {
+
+            const res = await fetch("/api/timeslots", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json",
+                    ...authHeader()
+                },
+                body: JSON.stringify({
+                    roomId: +slotRoom.value,
+                    start: slotStart.value,
+                    end: slotEnd.value
+                })
+            });
+
+            slotOut.textContent = await res.text();
+        }
+
+        /* AVAILABLE */
+        async function loadAvailable() {
+
+            const url = `/api/timeslots/available?roomId=${aRoom.value}&from=${aFrom.value}&to=${aTo.value}`;
+
+            const res = await fetch(url);
+
+            availOut.textContent = await res.text();
+        }
+
+        /* RESERVE */
+        async function reserve() {
+
+            const res = await fetch("/api/reservations", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json",
+                    ...authHeader()
+                },
+                body: JSON.stringify({
+                    timeSlotId: +resSlot.value
+                })
+            });
+
+            resOut.textContent = await res.text();
+        }
+
+        /* MY RESERVATIONS */
+        async function loadMine() {
+
+            const res = await fetch("/api/reservations/mine", {
+                headers: authHeader()
+            });
+
+            mineOut.textContent = await res.text();
+        }
+
+        /* CANCEL */
+        async function cancel() {
+
+            const res = await fetch(`/api/reservations/${cancelId.value}`, {
+                method: "DELETE",
+                headers: authHeader()
+            });
+
+            cancelOut.textContent = "Status: " + res.status;
+        }
+
+    </script>
+
+</body>
+</html>
+

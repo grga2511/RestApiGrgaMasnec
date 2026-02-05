@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "Hash": "4uCkhAoBvfw9ukaaEQJGDc4mTuRj3lgxsQ9R5+wSNKc=",
+  "Source": "TehnologijaWebaGrgaMasnec.tests",
+  "BasePath": "_content/TehnologijaWebaGrgaMasnec.tests",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\grgam\\source\\repos\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec.csproj",
+      "Version": 2,
+      "Source": "TehnologijaWebaGrgaMasnec",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Release;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Release;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TehnologijaWebaGrgaMasnec\\wwwroot",
+      "Source": "TehnologijaWebaGrgaMasnec",
+      "ContentRoot": "C:\\Users\\grgam\\source\\repos\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\wwwroot\\",
+      "BasePath": "_content/TehnologijaWebaGrgaMasnec",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\grgam\\source\\repos\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\wwwroot\\index.html",
+      "SourceId": "TehnologijaWebaGrgaMasnec",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\grgam\\source\\repos\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\wwwroot\\",
+      "BasePath": "_content/TehnologijaWebaGrgaMasnec",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@TehnologijaWebaGrgaMasnec_HostAddress = http://localhost:5296
+
+GET {{TehnologijaWebaGrgaMasnec_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

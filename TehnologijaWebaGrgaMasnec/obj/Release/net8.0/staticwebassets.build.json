@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "VN1rARVvdsDazScopIJZT5HrjEH2kKuAtjFSilzLSII=",
+  "Source": "TehnologijaWebaGrgaMasnec",
+  "BasePath": "_content/TehnologijaWebaGrgaMasnec",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TehnologijaWebaGrgaMasnec\\wwwroot",
+      "Source": "TehnologijaWebaGrgaMasnec",
+      "ContentRoot": "C:\\Users\\grgam\\source\\repos\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\wwwroot\\",
+      "BasePath": "_content/TehnologijaWebaGrgaMasnec",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\grgam\\source\\repos\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\wwwroot\\index.html",
+      "SourceId": "TehnologijaWebaGrgaMasnec",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\grgam\\source\\repos\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\wwwroot\\",
+      "BasePath": "_content/TehnologijaWebaGrgaMasnec",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

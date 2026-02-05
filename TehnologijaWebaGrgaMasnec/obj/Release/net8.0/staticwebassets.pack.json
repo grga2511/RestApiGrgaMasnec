@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\grgam\\source\\repos\\TehnologijaWebaGrgaMasnec\\TehnologijaWebaGrgaMasnec\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.TehnologijaWebaGrgaMasnec.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.TehnologijaWebaGrgaMasnec.props",
+      "PackagePath": "build\\TehnologijaWebaGrgaMasnec.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TehnologijaWebaGrgaMasnec.props",
+      "PackagePath": "buildMultiTargeting\\TehnologijaWebaGrgaMasnec.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.TehnologijaWebaGrgaMasnec.props",
+      "PackagePath": "buildTransitive\\TehnologijaWebaGrgaMasnec.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
